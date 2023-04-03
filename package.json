@@ -1,0 +1,21 @@
+{
+  "name": "mando-dark",
+  "displayName": "Mando Dark",
+  "description": "Dark Theme based on your favorite Space Western hero",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mando Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mando Dark-color-theme.json"
+      }
+    ]
+  }
+}
