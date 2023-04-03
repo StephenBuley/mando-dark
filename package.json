@@ -3,6 +3,18 @@
   "displayName": "Mando Dark",
   "description": "Dark Theme based on your favorite Space Western hero",
   "version": "0.0.1",
+  "publisher": "StephenBuley",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephenBuley/mando-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mandolarian",
+    "Stephen Buley",
+    "mando dark"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
